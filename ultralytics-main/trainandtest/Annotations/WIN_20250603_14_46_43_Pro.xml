@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>trainandtest</folder>
+<filename>WIN_20250603_14_46_43_Pro.jpg</filename>
+<path>C:\Users\27848\Desktop\ruikang\ultralytics-main\trainandtest\WIN_20250603_14_46_43_Pro.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>友军</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>284</xmin>
+        <ymin>396</ymin>
+        <xmax>572</xmax>
+        <ymax>747</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>人质</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>599</xmin>
+        <ymin>375</ymin>
+        <xmax>851</xmax>
+        <ymax>741</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>友军</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>917</xmin>
+        <ymin>405</ymin>
+        <xmax>1205</xmax>
+        <ymax>798</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>人质</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1229</xmin>
+        <ymin>453</ymin>
+        <xmax>1595</xmax>
+        <ymax>792</ymax>
+    </bndbox>
+</object>
+</annotation>

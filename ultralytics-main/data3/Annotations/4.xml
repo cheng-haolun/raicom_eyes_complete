@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>SRC</folder>
+<filename>4.jpg</filename>
+<path>C:\Users\27848\Desktop\SRC\4.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>3072</width>
+    <height>4096</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>sj</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>302</xmin>
+        <ymin>1355</ymin>
+        <xmax>1739</xmax>
+        <ymax>2720</ymax>
+    </bndbox>
+</object>
+</annotation>

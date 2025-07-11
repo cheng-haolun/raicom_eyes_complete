@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>images</folder>
+<filename>17.jpg</filename>
+<path>C:\Users\27848\Desktop\ruikang\ultralytics-main\data2\images\17.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>4000</width>
+    <height>2252</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>enemy2</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>202</xmin>
+        <ymin>1095</ymin>
+        <xmax>713</xmax>
+        <ymax>1750</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>enemy2</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>983</xmin>
+        <ymin>1017</ymin>
+        <xmax>1487</xmax>
+        <ymax>1732</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>enemy2</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1632</xmin>
+        <ymin>1101</ymin>
+        <xmax>2286</xmax>
+        <ymax>1714</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>enemy2</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2454</xmin>
+        <ymin>1125</ymin>
+        <xmax>3109</xmax>
+        <ymax>1756</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>enemy2</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3235</xmin>
+        <ymin>999</ymin>
+        <xmax>3686</xmax>
+        <ymax>1732</ymax>
+    </bndbox>
+</object>
+</annotation>

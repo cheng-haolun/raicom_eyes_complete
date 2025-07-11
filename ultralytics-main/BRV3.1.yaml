@@ -1,0 +1,15 @@
+path: C:\Users\27848\Desktop\ruikang\ultralytics-main\data
+
+train:
+  - images/train
+val:
+  - images/val
+test:
+  - images/test
+nc: 4
+
+names:
+  0: 友军
+  1: 人质
+  2: 敌军
+  3: 敌军

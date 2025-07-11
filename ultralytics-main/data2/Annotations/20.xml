@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>images</folder>
+<filename>20.jpg</filename>
+<path>C:\Users\27848\Desktop\ruikang\ultralytics-main\data2\images\20.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>4000</width>
+    <height>2252</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>hostage</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>202</xmin>
+        <ymin>1065</ymin>
+        <xmax>725</xmax>
+        <ymax>1744</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>hostage</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1007</xmin>
+        <ymin>1023</ymin>
+        <xmax>1500</xmax>
+        <ymax>1750</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>hostage</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1680</xmin>
+        <ymin>1125</ymin>
+        <xmax>2328</xmax>
+        <ymax>1750</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>hostage</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2496</xmin>
+        <ymin>1041</ymin>
+        <xmax>2965</xmax>
+        <ymax>1762</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>hostage</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3139</xmin>
+        <ymin>1191</ymin>
+        <xmax>3842</xmax>
+        <ymax>1834</ymax>
+    </bndbox>
+</object>
+</annotation>

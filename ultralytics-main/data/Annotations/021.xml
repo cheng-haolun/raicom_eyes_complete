@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>new bingren</folder>
+<filename>021.jpg</filename>
+<path>C:\Users\27848\Desktop\new bingren\021.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>4096</width>
+    <height>3072</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>friend</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>848</xmin>
+        <ymin>465</ymin>
+        <xmax>1856</xmax>
+        <ymax>1105</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>friend</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2408</xmin>
+        <ymin>513</ymin>
+        <xmax>3344</xmax>
+        <ymax>1265</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>friend</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>384</xmin>
+        <ymin>1561</ymin>
+        <xmax>1496</xmax>
+        <ymax>2697</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>friend</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1680</xmin>
+        <ymin>1553</ymin>
+        <xmax>2632</xmax>
+        <ymax>2617</ymax>
+    </bndbox>
+</object>
+</annotation>

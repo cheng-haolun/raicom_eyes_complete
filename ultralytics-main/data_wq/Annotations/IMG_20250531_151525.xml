@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>SRC</folder>
+<filename>IMG_20250531_151525.jpg</filename>
+<path>C:\Users\27848\Desktop\SRC\IMG_20250531_151525.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>3072</width>
+    <height>4080</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>mb</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>613</xmin>
+        <ymin>771</ymin>
+        <xmax>2697</xmax>
+        <ymax>3394</ymax>
+    </bndbox>
+</object>
+</annotation>

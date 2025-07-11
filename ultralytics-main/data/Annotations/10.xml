@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>new bingren</folder>
+<filename>10.jpg</filename>
+<path>C:\Users\27848\Desktop\new bingren\10.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>3072</width>
+    <height>4080</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>enemy2</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>242</xmin>
+        <ymin>1537</ymin>
+        <xmax>2841</xmax>
+        <ymax>3561</ymax>
+    </bndbox>
+</object>
+</annotation>

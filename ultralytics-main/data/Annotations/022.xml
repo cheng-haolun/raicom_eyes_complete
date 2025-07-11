@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>new bingren</folder>
+<filename>022.jpg</filename>
+<path>C:\Users\27848\Desktop\new bingren\022.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>4096</width>
+    <height>3072</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>friend</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>840</xmin>
+        <ymin>761</ymin>
+        <xmax>1792</xmax>
+        <ymax>1705</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>enemy1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>736</xmin>
+        <ymin>1865</ymin>
+        <xmax>1888</xmax>
+        <ymax>2873</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>hostage</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2536</xmin>
+        <ymin>1529</ymin>
+        <xmax>3400</xmax>
+        <ymax>2625</ymax>
+    </bndbox>
+</object>
+</annotation>

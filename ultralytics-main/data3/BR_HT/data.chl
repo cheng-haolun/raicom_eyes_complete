@@ -1,0 +1,4 @@
+confidence:0.8
+num:0
+model_path:runs/detect/BRV9/weights/best.pt
+save_images:./data_test/images

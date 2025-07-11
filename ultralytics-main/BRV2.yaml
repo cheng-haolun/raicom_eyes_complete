@@ -1,0 +1,16 @@
+
+path: C:\Users\27848\Desktop\ruikang\ultralytics-main\data2
+
+train:
+  - images/train
+val:
+  - images/val
+test:
+  - images/test
+nc: 4
+
+names:
+  0: mc(YJ)
+  1: write(RZ)
+  2: red(DJ)
+  3: blue(DJ)
